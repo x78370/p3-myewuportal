@@ -1,0 +1,76 @@
+li {
+	font-family: 'Gafata', sans-serif;
+	list-style: none;
+}
+
+h1, p {
+	font-family: 'Gafata', sans-serif;
+	font-size: 1.5em;
+	color: #ff6600;
+}
+.red{
+	background:#a10022;
+}
+.orbit img {
+	height: 100%;
+}
+
+.off-canvas-wrap {
+	height: 400px;
+}
+
+.photos img {
+	display: block;
+	width:200px;
+	margin: 40px auto;
+}
+
+.photos p {
+	text-align: center;
+}
+
+.photos img:hover,
+.photos p:hover {
+	opacity: .6;
+	-webkit-transform: scale(1.1);
+}
+
+dt, a {
+	color: #000000 !important;
+}
+
+body {
+
+	background-color: #6d6e71;
+}
+.tab-bar-section {
+	background: #6d6e71;
+	
+}
+.menu-icon {
+	background: #a10022;
+}
+
+.title {
+	color: #000000 !important;
+}
+
+footer {
+  margin: auto;
+  width: 900px;
+}
+.shadow {
+  -moz-box-shadow:    5px 5px 6px 0px #a10022
+;
+  -webkit-box-shadow: 5px 5px 6px 0px #a10022
+;
+  box-shadow:         5px 5px 6px 0px #a10022
+;
+}
+
+.spacer {
+	margin: 20px;
+}
+.panel {
+	margin: 10px;
+}
